@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="MVC-Controller/MVC-Controller.csproj" />
   <Project Path="MVC-Model/MVC-Model.csproj" />
   <Project Path="MVC-View/MVC-View.csproj" />
